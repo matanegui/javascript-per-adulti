@@ -4,5 +4,6 @@ Un apunte en constante construcción sobre Javascript y programación front-end.
 
 ## Posts
 
-- [Tipado en Javascript](post1.md)
-- [Bind, call y apply](post2.md)
+- [Tipado en Javascript](tipado.md)
+- [Bind, call y apply](call-bind-apply.md)
+- [Hositing](hoisting.md)
